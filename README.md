@@ -27,6 +27,7 @@ of connecting users against OIDC providers like Azure AD, GitHub or Keycloak.
 
 - [OpenVPN Community Client for Windows 2.6.0](https://openvpn.net/community-downloads/)
 - [Tunnelblick](https://tunnelblick.net/) [4.0.0beta10+](https://github.com/Tunnelblick/Tunnelblick/issues/676)
+- [OpenVPN 3 client for Linux](https://openvpn.net/cloud-docs/owner/connectors/connector-user-guides/openvpn-3-client-for-linux.html) tested on a Debian 12, with OpenVPN 3 version 21-1+bookworm
 
 #### Partial Working
 
@@ -36,6 +37,7 @@ of connecting users against OIDC providers like Azure AD, GitHub or Keycloak.
 #### Non-Working
 
 - [network-manager-openvpn-gnome](https://gitlab.gnome.org/GNOME/NetworkManager-openvpn) - See https://gitlab.gnome.org/GNOME/NetworkManager-openvpn/-/issues/124
+- [openvpn 2.6.4 for debian](https://packages.debian.org/bookworm/openvpn) - has no support for Web Auth.
 
 # Installation
 
